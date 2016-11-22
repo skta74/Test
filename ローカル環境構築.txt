@@ -1,0 +1,19 @@
+ローカル環境構築（macOS）
+
+ドットインストールのレッスンに従って実施
+
+VIrtualBoxのインストール
+Vagrantのインストール
+
+terminal の設定
+
+centOS用のディレクトリの生成
+
+Home > MyVagrant
+
+Serverの設定をする
+　Vagrantfile を作成する
+　　IPアドレスの設定
+
+この状態で、Vagrantコマンドを実行すると、
+Vagrantfileを読み込んで、VirtualBoxを起動してくれる
